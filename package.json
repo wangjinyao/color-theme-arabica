@@ -1,6 +1,6 @@
 {
-    "name": "theme-arabica",
-    "displayName": "theme-arabica",
+    "name": "color-theme-arabica",
+    "displayName": "color-theme-arabica",
     "description": "customized color theme",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "theme-arabica",
+                "label": "color-theme-arabica",
                 "uiTheme": "vs-dark",
-                "path": "./themes/theme-arabica-color-theme.json"
+                "path": "./themes/color-theme-arabica.json"
             }
         ]
     }
