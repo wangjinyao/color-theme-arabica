@@ -12,9 +12,24 @@
     "contributes": {
         "themes": [
             {
-                "label": "color-theme-arabica",
+                "label": "###color-theme-arabica",
                 "uiTheme": "vs-dark",
                 "path": "./themes/color-theme-arabica.json"
+            },
+            {
+                "label": "###va-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/eva-dark.json"
+            },
+            {
+                "label": "###github-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/github-dark.json"
+            },
+            {
+                "label": "###mariana",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mariana.json"
             }
         ]
     }
