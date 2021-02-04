@@ -1,0 +1,21 @@
+{
+    "name": "theme-arabica",
+    "displayName": "theme-arabica",
+    "description": "customized color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "theme-arabica",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme-arabica-color-theme.json"
+            }
+        ]
+    }
+}
